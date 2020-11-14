@@ -1,3 +1,8 @@
+token.pickle
+google_credentials.json
+notion_config.json
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
