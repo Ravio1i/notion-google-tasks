@@ -1,6 +1,11 @@
 # notion-google-tasks
 Python application to sync tasks from google tasks to notion.so
 
+## Install
+
+1. (Optional) Create virtualenv
+2. `pip install -r requirements.txt
+
 
 ## Resources
 
